@@ -1,0 +1,18 @@
+img {
+  height: 250px;
+  width: 250px;
+}
+
+#container {
+  border-style: solid;
+  width: 631px;
+}
+
+#top-pics {
+  padding: 50px;
+}
+
+#bottom-pics {
+  margin-left: 50px;
+  padding-bottom: 50px;
+}
